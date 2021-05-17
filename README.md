@@ -1,3 +1,7 @@
+# Basic client 
+This client will be used with my other repo https://github.com/niCognition/graphql-w-mockdata
+I will explore some features of react and mapbox using this client
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
